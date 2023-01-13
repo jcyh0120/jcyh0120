@@ -1,5 +1,3 @@
-## life > idea > try > done > share!
-
 💻 Full-Stack NodeJS developer
 
 👤 Essentialism, Connect Thinker, Enchanter
